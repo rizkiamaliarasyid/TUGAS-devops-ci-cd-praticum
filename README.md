@@ -1,6 +1,5 @@
 # TUGAS-devops-ci-cd-praticum
 
-NAMA : 
-RIZKI AMALIA RASYID RIDHA
-NIM : 
-105841121223
+**Nama:** Rizki Amalia Rasyid Ridha  
+**NIM:** 105841121223  
+**Kelas/Mata Kuliah:** 5 RPL B/DEVOPS AND CI/CD PIPELINES
