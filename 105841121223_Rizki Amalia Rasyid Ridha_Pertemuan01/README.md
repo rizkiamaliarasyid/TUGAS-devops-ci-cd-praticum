@@ -2,7 +2,7 @@
 
 **Nama:** Rizki Amalia Rasyid Ridha  
 **NIM:** 105841121223  
-**Kelas/Mata Kuliah:** [Nama Kelas Anda]  
+**Kelas/Mata Kuliah:** 5 RPL B/DEVOPS AND CI/CD PIPELINES
 
 ---
 
@@ -26,14 +26,14 @@ Berikut adalah bukti dokumentasi lingkungan pengembangan yang telah disiapkan:
 
 ### A. Git Version
 *(Screenshot terminal yang menunjukkan versi Git)*
-![Git Version](screenshots/git-version.png)
+![Git Version](git-version.png)
 
 ### B. Docker Version
-*(Screenshot terminal yang menunjukkan versi Docker atau tampilan Docker Desktop)*
-![Docker Version](screenshots/docker-version.png)
+*(Screenshot terminal yang menunjukkan versi Docker )*
+![Docker Version](docker-version.png)
 
 ### C. Visual Studio Code Setup
 *(Screenshot VS Code yang menampilkan ekstensi Docker, GitLens, dan YAML yang sudah terinstal)*
-![VS Code Setup](screenshots/vscode-setup1.png)
-(screenshots/vscode-setup2.png)
-(screenshots/vscode-setup3.png)
+![VS Code Setup](vscode-setup1.png)
+![VS Code Setup](vscode-setup2.png)
+![VS Code Setup](vscode-setup3.png)
