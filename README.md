@@ -1,1 +1,4 @@
 # TUGAS-devops-ci-cd-praticum
+
+NAMA : RIZKI AMALIA RASYID RIDHA
+NIM : 105841121223
